@@ -1,0 +1,19 @@
+{
+    "source_file": "GarisPanduanLI.pdf",
+    "source_path": "/content/week3_project/data/raw/GarisPanduanLI.pdf",
+    "source_sha256": "7edca28f7787ad72d6600ca094c3c6b853c7204ad045388bbda7844e747291e0",
+    "processing_steps": [
+        "PDF text extraction using PyMuPDF",
+        "Text cleaning",
+        "Recursive character text splitting",
+        "Metadata generation"
+    ],
+    "chunking_configuration": {
+        "method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100
+    },
+    "total_chunks": 29,
+    "output_file": "GarisPanduanLI_chunks_metadata.json",
+    "generated_at": "2026-11-14T04:24:01.784210+00:00"
+}

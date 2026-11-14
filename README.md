@@ -31,4 +31,51 @@ Undergraduate students who need information about internship eligibility, applic
 ## Weekly Progress
 | Week | Focus                      | Deliverable    | Status |
 |------|----------------------------|----------------|--------|
-| W1   | System map + project scope | README + docs  | ✅     |
+| W1   | System map + project scope | README + docs  | ✅    |
+
+## Week 3 – Data Preparation Pipeline
+
+### Project Overview
+This week, the InternAssistant project implemented a document-processing pipeline using the UTM Industrial Training Guidelines PDF.
+
+### Selected Data Pathway
+- Pathway: PDF document processing
+- Source: `GarisPanduanLI.pdf`
+- Document language: Malay
+- Total pages: 16
+
+### Pipeline Process
+1. Extract text from the PDF using PyMuPDF.
+2. Clean the extracted text.
+3. Split the text into chunks using RecursiveCharacterTextSplitter.
+4. Generate metadata for each chunk.
+5. Record data lineage and processing information.
+6. Prepare structured chunks for the next pipeline stage.
+
+### Chunking Configuration
+- Chunking method: RecursiveCharacterTextSplitter
+- Chunk size: 1200 characters
+- Chunk overlap: 100 characters
+- Total chunks generated: 29
+
+### Week 3 Deliverables
+- Notebook: `notebooks/week3_pipeline.ipynb`
+- Data inventory: `docs/week3_data_inventory.md`
+- Pipeline diagram: `docs/week3_pipeline_diagram.png`
+- Pipeline decisions: `docs/week3_pipeline_decisions.md`
+- Part B lineage manifest: `data/week3_manifest.json`
+- Processed data: `data/processed/`
+- Part C prepared chunks: `data/pipeline_v1/document/prepared_chunks.json`
+- Part C pipeline manifest: `data/pipeline_v1/document/pipeline_manifest.json`
+
+### Execution Scripts
+Run the following commands from the project root:
+
+```bash
+python src/prepare_chunks.py
+python src/create_pipeline_manifest.py
+```
+
+### Current Progress
+The Week 3 document-processing pipeline has been executed successfully, producing 29 prepared chunks with metadata and recorded lineage information.
+

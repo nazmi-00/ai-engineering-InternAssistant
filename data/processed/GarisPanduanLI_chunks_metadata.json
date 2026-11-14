@@ -1,0 +1,465 @@
+[
+    {
+        "chunk_id": "GLI_001",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            1
+        ],
+        "sections": [
+            "1.0 Pengenalan",
+            "1.1 Semua mahasiswa peringkat sarjana muda di UTM diwajibkan",
+            "1.2 Walau bagaimanapun, pengecualian diberikan kepada mahasiswa",
+            "2.0 Definisi Latihan Industri (LI)",
+            "3.0 Matlamat"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1154,
+        "text": "--- PAGE 1 ---\n \n \n \n \nGARIS PANDUAN \nLATIHAN INDUSTRI \n \n \n \n1.0 \nPengenalan \n \n1.1 \nSemua mahasiswa peringkat sarjana muda di UTM diwajibkan \nmenjalankan Latihan Industri bagi satu tempoh yang ditetapkan. \nLatihan ini merupakan satu kursus yang memberi pendedahan kepada \ndunia kerjaya agar mahasiswa dapat menghubungkaitkan apa yang \ndimahasiswai secara teori dengan realiti sebenar dan lebih bersedia \ndengan suasana kerja yang bakal mereka ceburi. \n1.2 \nWalau bagaimanapun, pengecualian diberikan kepada mahasiswa \nperingkat sarjana muda yang mengikuti program pengajian yang tidak \nmensyaratkan Latihan Industri dalam kurikulumnya. \n \n2.0 \nDefinisi Latihan Industri (LI) \n \nLI adalah penempatan mahasiswa sekurang-kurangnya DUA BELAS (12) \nminggu di industri/organisasi luar di dalam atau di luar negara agar mahasiswa \ndapat mempraktiskan pengetahuan secara teori kepada amalan dalam bidang \nkerjaya mereka sebelum mereka dianugerahkan ijazah sarjana muda. Mereka \njuga akan didedahkan kepada aspek sosial, interaksi, budaya dan proses kerja \ndi alam kerjaya. \n \n3.0 \nMatlamat \n \nMatlamat LI adalah untuk mempertingkatkan pengetahuan dan kemahiran"
+    },
+    {
+        "chunk_id": "GLI_002",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            1
+        ],
+        "sections": [
+            "3.0 Matlamat"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 226,
+        "text": "3.0 \nMatlamat \n \nMatlamat LI adalah untuk mempertingkatkan pengetahuan dan kemahiran \nmahasiswa dalam bidang profesyen masing-masing di samping satu usaha ke \narah melahirkan graduan yang berketrampilan, kreatif dan berwibawa."
+    },
+    {
+        "chunk_id": "GLI_003",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            2
+        ],
+        "sections": [
+            "4.0 Objektif",
+            "5.0 Hasil Pembelajaran"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1146,
+        "text": "--- PAGE 2 ---\n2 \n \n4.0 \nObjektif \n \n \nObjektif LI adalah untuk: \ni. \nmendedahkan mahasiswa kepada suasana persekitaran dan kerja dalam \nbidang masing-masing; \nii. \nmemberi peluang kepada mahasiswa memperolehi pengalaman bekerja \ndi industri/organisasi berkaitan bidang masing-masing; \niii. \nmengaplikasikan pengetahuan dan kemahiran akademik dalam alam \npekerjaan yang sebenar; \niv. \nmelatih mahasiswa berinteraksi dan berkomunikasi secara berkesan di \nsemua peringkat di tempat kerja; \nv. \nmelatih mahasiswa menyediakan laporan teknikal berkaitan dengan LI \nyang dijalankan; \nvi. \nmemupuk semangat bekerja secara berkumpulan; \nvii. \nmenghayati nilai etika profesyen masing-masing; \nviii. \nmewujudkan jalinan hubungan universiti dengan industri; dan \nix. \nmembantu pembelajaran mahasiswa seterusnya di universiti. \n \n \n5.0 \nHasil Pembelajaran \n \nSetelah menyelesaikan LI, mahasiswa berupaya: \ni. \nmempraktiskan teori dan pengetahuan akademik yang dimahasiswai di \ntempat kerja di bawah penyeliaan; \nii. \nmengenalpasti struktur organisasi jabatan/industri tempat latihan dan \nmengenali peranan jawatan tertentu di dalam organisasi tersebut; \niii."
+    },
+    {
+        "chunk_id": "GLI_004",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            2
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 492,
+        "text": "mengenali peranan jawatan tertentu di dalam organisasi tersebut; \niii. \nberinteraksi dan berkomunikasi secara berkesan dengan pelbagai \npihak; \niv. \nmemberi pandangan secara kritis, berkeyakinan, inovatif dan mampu \nmenyelesaikan masalah secara profesional; \nv. \nmempamerkan etika dan integriti yang tinggi dalam menjalankan \ntanggungjawab yang diberikan; \nvi. \nbekerja secara berkumpulan dengan berkesan; \nvii. \nmenghasilkan laporan teknikal yang terperinci mengikut format yang \nditetapkan."
+    },
+    {
+        "chunk_id": "GLI_005",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            3
+        ],
+        "sections": [
+            "6.0 Skop LI",
+            "7.0 Tempoh LI",
+            "7.1 LI dilaksanakan dalam jangka masa mengikut ketetapan fakulti:"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1154,
+        "text": "--- PAGE 3 ---\n \n6.0 \nSkop LI \n \nSetiap fakulti harus merangka skop latihan berpandukan kepada kurikulum \nprogram akademik untuk memudahkan industri/ organisasi luar merangka \nrancangan latihan mahasiswa. Walau bagaimanapun, industri/organisasi luar \nberhak mengubah skop latihan bersesuaian dengan aktiviti dan keperluan \nmereka selaras dengan skop yang telah dikenalpasti oleh fakulti. Antara skop \nprogram LI adalah memberi: \ni. \npendedahan pelbagai jenis pekerjaan dalam industri/organisasi dengan \nmelakukan kerja yang berkaitan di bawah penyeliaan seperti \nmengumpul data, membuat ujikaji, menyenggara dan membaik pulih, \nmerekabentuk, membangun sistem, mengurus sumber dan lain-lain; \nii. \nkefahaman mengenai proses dan operasi sesuatu sistem secara \nmenyeluruh. Contohnya kerja operasi pengeluaran, pemeriksaan dan \nanalisis; \niii. \nlatihan dalam bidang pengurusan dan pentadbiran mengikut \npengkhususan yang diambil. Ini termasuklah melatih mahasiswa dalam \nprojek berkumpulan. \n \n \n7.0 \nTempoh LI \n \n7.1 \nLI dilaksanakan dalam jangka masa mengikut ketetapan fakulti: \n7.1.1 Jangkamasa 12 minggu \nBagi Fakulti yang mensyaratkan tempoh 12 minggu,"
+    },
+    {
+        "chunk_id": "GLI_006",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            3
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 552,
+        "text": "7.1.1 Jangkamasa 12 minggu \nBagi Fakulti yang mensyaratkan tempoh 12 minggu, \nmahasiswa dikehendaki mendaftar satu kod kursus dan \nbiasanya dilakukan pada semester pendek sebelum sesi terakhir \npengajian mahasiswa. \n \n7.1.2 Jangkamasa Satu Semester atau 20 minggu \nBagi Fakulti yang mensyaratkan tempoh satu semester atau 20 \nminggu, mahasiswa dikehendaki mendaftar dua kod kursus – \nsatu bagi pelaksanaan latihan di industri dan satu lagi bagi \npenyediaan laporan. LI mesti dilakukan pada semester lazim \nsebelum semester terakhir pengajian mahasiswa."
+    },
+    {
+        "chunk_id": "GLI_007",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            4
+        ],
+        "sections": [
+            "8.0 Syarat Mendaftar LI",
+            "8.1 Mahasiswa dibenarkan mendaftar LI setelah memenuhi syarat berikut:",
+            "8.2 Mahasiswa tidak dibenarkan mendaftar lain-lain kursus ketika",
+            "8.3 Mahasiswa tidak dibenarkan menangguhkan LI kecuali dengan",
+            "9.0 Penempatan LI",
+            "9.1 Semua mahasiswa dimestikan menjalankan LI di organisasi luar UTM",
+            "9.2 Mahasiswa mesti berusaha bersama dengan fakulti bagi mencari",
+            "9.3 Senarai tempat latihan industri mesti disahkan oleh fakulti masing-",
+            "9.4 Mahasiswa perlu memohon untuk membatalkan permohonan terdahulu",
+            "9.5 Bagi mahasiswa yang ingin menjalankan LI di luar negara mesti"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1178,
+        "text": "--- PAGE 4 ---\n4 \n \n8.0 \nSyarat Mendaftar LI \n \n \n \n8.1 \nMahasiswa dibenarkan mendaftar LI setelah memenuhi syarat berikut: \ni. \nmencapai taraf Kredit Dapat yang ditentukan oleh fakulti, \nDAN/ATAU \nii. \nmengambil semua kursus prasyarat yang ditentukan oleh fakulti, \nDAN/ATAU \niii. \nsyarat-syarat tambahan yang ditetapkan oleh fakulti. \n8.2 \n Mahasiswa tidak dibenarkan mendaftar lain-lain kursus ketika \nmenjalani LI. \n8.3 \nMahasiswa tidak dibenarkan menangguhkan LI kecuali dengan \nkebenaran pihak Fakulti. \n \n9.0 \nPenempatan LI \n \n \n9.1 \nSemua mahasiswa dimestikan menjalankan LI di organisasi luar UTM \nkecuali dengan kebenaran pihak Fakulti. \n9.2 \nMahasiswa mesti berusaha bersama dengan fakulti bagi mencari \ntempat latihan industri berdasarkan bidang yang berkaitan. \n9.3 \nSenarai tempat latihan industri mesti disahkan oleh fakulti masing-\nmasing. \n9.4 \nMahasiswa perlu memohon untuk membatalkan permohonan terdahulu \nsekiranya mahasiswa tidak menerima sebarang jawapan daripada \norganisasi dalam tempoh yang ditetapkan oleh fakulti. \n9.5 \nBagi mahasiswa yang ingin menjalankan LI di luar negara mesti \nmendapat kebenaran pihak universiti bagi pengurusan ke luar negara."
+    },
+    {
+        "chunk_id": "GLI_008",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            4
+        ],
+        "sections": [
+            "9.6 Pihak Fakulti boleh mengeluarkan mahasiswa dari sesuatu tempat LI",
+            "9.7 Mahasiswa tidak dibenarkan bertukar tempat LI kecuali dengan"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 428,
+        "text": "mendapat kebenaran pihak universiti bagi pengurusan ke luar negara. \nSemua kos yang terlibat adalah tanggungan mahasiswa. Prosedur kerja \nbagi permohonan ke luar negara seperti di Lampiran A. \n9.6 \nPihak Fakulti boleh mengeluarkan mahasiswa dari sesuatu tempat LI \natas sebab-sebab tertentu bagi kebaikan mahasiswa dan/atau universiti. \n9.7 \nMahasiswa tidak dibenarkan bertukar tempat LI kecuali dengan \nkebenaran pihak Fakulti."
+    },
+    {
+        "chunk_id": "GLI_009",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            5
+        ],
+        "sections": [
+            "10.1 Sistem Latihan Industri",
+            "10.2 Jawatankuasa LI Fakulti",
+            "10.3 Fungsi dan Tugas Jawatankuasa LI Fakulti"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1188,
+        "text": "--- PAGE 5 ---\n \n10.0 Pelaksanaan dan Pengendalian \n \n10.1 \nSistem Latihan Industri \nUTM menyediakan sistem bersepadu yang dikenali sebagai Sistem \nLatihan Industri (ITS - Industrial Training System) yang mesti \ndigunakan oleh semua fakulti bagi melancarkan urusan pemprosesan \nLI. Setiap fakulti perlu melantik pentadbir bagi sistem tersebut. \n \n10.2 \nJawatankuasa LI Fakulti \nSemua kegiatan yang berkaitan dengan LI hendaklah dikelolakan oleh \nJawatankuasa \nLI \nFakulti \nyang \nbertanggung \njawab \nkepada \nJawatankuasa Akademik Fakulti. Ahli jawatankuasa ini terdiri daripada \nwakil setiap jabatan dengan dipengerusikan oleh Timbalan Dekan \n(Akademik) atau sesiapa yang dilantik oleh fakulti. Wakil Jabatan akan \nbertindak sebagai penyelaras LI di jabatan masing-masing. \n \n10.3 \nFungsi dan Tugas Jawatankuasa LI Fakulti \nAntara tugas Jawatankuasa LI Fakulti adalah seperti berikut: \ni. \nMenyedia \ndan \nmengemaskini \npangkalan \ndata \nindustri/organisasi yang berpotensi untuk penempatan LI; \nii. \nMenyediakan jadual kerja pelaksanaan LI di fakulti; \niii. \nMempelawa organisasi untuk menawarkan tempat latihan \nkepada mahasiswa; \niv. \nMemastikan \nmahasiswa \nmemenuhi \nsegala \nsyarat \nbagi"
+    },
+    {
+        "chunk_id": "GLI_010",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            5
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 566,
+        "text": "kepada mahasiswa; \niv. \nMemastikan \nmahasiswa \nmemenuhi \nsegala \nsyarat \nbagi \nmenjalankan LI; \nv. \nMemastikan mahasiswa menjalani LI mengikut skop yang telah \nditetapkan; \nvi. \nMemantau kesesuaian industri/organisasi tempat LI; \nvii. \nMenyelaras pelantikan penyelia fakulti; \nviii. \nMemberi taklimat kepada mahasiswa dan penyelia fakulti \nberkaitan LI; \nix. \nMengumpul borang-borang penilaian dan laporan mahasiswa \nbagi tujuan pemarkahan; \nx. \nMenyediakan laporan pelaksanaan LI kepada Jawatankuasa \nAkademik Fakulti setelah tamat LI pada semester yang \nberkenaan;"
+    },
+    {
+        "chunk_id": "GLI_011",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            6
+        ],
+        "sections": [
+            "10.4 Tugas Penyelia Fakulti bagi LI",
+            "10.5 Timbalan Pendaftar (Akademik)"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1155,
+        "text": "--- PAGE 6 ---\n6 \n \nxi. \nMenyediakan laporan maklum balas pihak industri/organisasi \ndan mahasiswa. \n \n10.4 \nTugas Penyelia Fakulti bagi LI \nPenyelia Fakulti bagi LI mestilah terdiri daripada staf akademik UTM \nyang dilantik. Tugas utama penyelia: \ni. \nmenetapkan jadual lawatan sekurang-kurangnya sekali; \nii. \nmemastikan mahasiswa berada di tempat LI yang dikenalpasti; \niii. \nmenghubungi pihak industri dan mahasiswa berkenaan lawatan; \niv. \nmelakukan lawatan ke organisasi untuk tujuan penyeliaan dan \npenilaian; \nv. \nmenjalin hubungan dengan pihak industri; \nvi. \nmenyelaras, membimbing dan memberi panduan kepada \nmahasiswa yang sedang menjalani LI; \nvii. \nberbincang dengan penyelia industri berkenaan program latihan \nyang diberikan kepada mahasiswa; \nviii. \nmenyemak dan menilai buku log dan laporan mahasiswa; \nix. \nmenyiapkan laporan penyeliaan dan penilaian yang berkaitan \nserta saranan untuk memperbaiki LI. \n \n10.5 \nTimbalan Pendaftar (Akademik) \nTimbalan Pendaftar (Akademik) berperanan untuk: \ni. \nbertindak sebagai urusetia kepada Jawatankuasa Penyelarasan \nLI Fakulti; \nii. \nmengeluarkan surat-surat rasmi berkaitan urusan LI, misalnya:"
+    },
+    {
+        "chunk_id": "GLI_012",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            6
+        ],
+        "sections": [
+            "10.6 Peranan Industri/organisasi"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 444,
+        "text": "LI Fakulti; \nii. \nmengeluarkan surat-surat rasmi berkaitan urusan LI, misalnya: \npengesahan mahasiswa, indemniti, surat makluman lawatan \npenyelia fakulti dan lain-lain; \niii. \nmengurus kemasukan markah LI. \n \n10.6 \nPeranan Industri/organisasi \nIndustri/Organisasi berperanan: \ni. \nmemaklumkan kepada fakulti kesudian menerima mahasiswa \ndalam tempoh tertentu dari tarikh surat permohonan atau \nsebelum/pada tarikh yang ditentukan oleh fakulti;"
+    },
+    {
+        "chunk_id": "GLI_013",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            7
+        ],
+        "sections": [
+            "10.7 Tanggungjawab Mahasiswa"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1172,
+        "text": "--- PAGE 7 ---\n \nii. \nmelantik \npegawai \nyang \nbersesuaian \nsebagai \npenyelia \nmahasiswa; \niii. \nmenyelaras, membimbing dan memberi panduan kepada \nmahasiswa yang sedang menjalani LI; \niv. \nmenyemak buku log mahasiswa, \nv. \nmembuat penilaian prestasi mahasiswa di organisasi, \nvi. \nmenghantar laporan penilaian mahasiswa kepada fakulti \nsebelum/pada tarikh yang ditetapkan, \nvii. \nmemantau kemajuan mahasiswa dan memberi tunjuk ajar dan \nmaklum balas yang sesuai secara dinamik; \nviii. \nmemastikan skop tugas mahasiswa adalah lebih berfokuskan \nkepada bidang pengkhususan mahasiswa; \nix. \nmemberi maklum balas kepada penyelia UTM; \nx. \nmemaklumkan kepada UTM sekiranya berlaku sebarang kes \ntatatertib atau salah laku mahasiswa. \n \n10.7 \nTanggungjawab Mahasiswa \n \nMahasiswa yang menjalankan LI mempunyai tanggungjawab utama \nmenyelesaikan projek dan lain-lain tugasan yang diberi oleh \nindustri/organisasi \ndalam \ntempoh \nmasa \nyang \nditetapkan. \nTanggungjawab mahasiswa yang lain secara khususnya adalah: \n \n10.7.1 Sebelum Menjalani LI \ni. \nmencari tempat dan mendapat maklumat tentang \npekerjaan di industri/organisasi untuk diperaku oleh \nJawatankuasa LI Fakulti; \nii."
+    },
+    {
+        "chunk_id": "GLI_014",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            7
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 453,
+        "text": "pekerjaan di industri/organisasi untuk diperaku oleh \nJawatankuasa LI Fakulti; \nii. \nmemaklumkan secara rasmi kepada Jawatankuasa LI \nFakulti tentang penolakan tawaran penempatan daripada \nindustri/organisasi; \niii. \nmenghadiri taklimat/penerangan Latihan Industri. \n \n10.7.2 Semasa Menjalani LI \ni. \nmemaklumkan kepada Jawatankuasa LI Fakulti sebaik \nsahaja melapor diri di tempat latihan; \nii. \nmengurus tempat kediaman dan pengangkutan di tempat \nLI;"
+    },
+    {
+        "chunk_id": "GLI_015",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            8
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1172,
+        "text": "--- PAGE 8 ---\n8 \n \niii. \nmenjaga keselamatan diri semasa latihan; \niv. \nmematuhi segala peraturan di industri/organisasi; \nv. \nmematuhi Akta Universiti dan Kolej Universiti, 1971, \nKaedah-kaedah \nUniversiti \nTeknologi \nMalaysia \n(Tatatertib Mahasiswa-mahasiswa), 1999; \nvi. \nmemastikan kehadiran penuh pada hari-hari bekerja di \norganisasi; \nvii. \nmelaksanakan \ntugas \ndan \ntanggungjawab \nyang \nditentukan oleh industri/organisasi; \nviii. \nmemenuhi skop latihan \nyang dikehendaki oleh \nindustri/organisasi; \nix. \nmenjaga nama baik universiti; \nx. \nmemberi \nkerjasama \nkepada \nindustri/organisasi \nsepanjang masa; \nxi. \nmenghubungi penyelia fakulti dengan segera sekiranya \nmenghadapi masalah; \nxii. \nmembuat catatan Buku Log, menulis laporan LI dan \nmelaksanakan tugas lain sebagaimana diarahkan; \nxiii. \nsentiasa bersikap positif serta memberi sumbangan \nmengikut kemampuan mahasiswa; \nxiv. \nmenjalin hubungan baik dengan industri/organisasi \nuntuk persediaan bagi menceburkan diri dalam alam \npekerjaan; \n \n10.7.3 Selepas Menjalani LI \ni. \nmemastikan \nsupaya \npenyelia \ndi \norganisasi \nmelengkapkan laporan penilaian latihan dan diserahkan \nkepada penyelia di UTM; \nii."
+    },
+    {
+        "chunk_id": "GLI_016",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            8
+        ],
+        "sections": [
+            "10.8 Surat Indemniti"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 287,
+        "text": "organisasi \nmelengkapkan laporan penilaian latihan dan diserahkan \nkepada penyelia di UTM; \nii. \nmenghantar semua dokumen yang berkaitan kepada \nJawatankuasa LI Fakulti. \n \n10.8 \nSurat Indemniti \ni. \nFakulti bertanggungjawab mengeluarkan surat indemniti \nkepada industri/organisasi luar."
+    },
+    {
+        "chunk_id": "GLI_017",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            9
+        ],
+        "sections": [
+            "11.1 Laporan Latihan Industri"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1147,
+        "text": "--- PAGE 9 ---\n \nii. \nBagi \nsurat \nindemniti \nyang \ndikeluarkan \noleh \npihak \nindustri/organisasi, Fakulti dikehendaki menandatangani surat \ntersebut bagi pihak Universiti. \n \n10.9 Insurans Mahasiswa \nSemua mahasiswa yang mengikuti LI adalah dilindungi oleh Takaful \nKeluarga Berkelompok UTM. \n \n10.10 Pengecualian kredit bagi LI \nSemua mahasiswa kemasukan terus boleh memohon pengecualian \nkredit LI dengan syarat: \ni. \nmempunyai pengalaman pekerjaan yang berkaitan dengan \nbidang pengajian sekurang-kurangnya SATU (1) tahun dan \nmenyediakan laporan pengalaman pekerjaan mengikut format \ndalam perkara 11.1, \nATAU \nii. \ntelah menjalani LI dalam bidang yang berkaitan dan setara \ndalam tempoh masa sekurang-kurangnya 12 minggu dalam \nprogram IPT yang diiktiraf. \n \n \n11.0 Penilaian \n \nPenilaian LI adalah berdasarkan kepada pencapaian dan kebolehan mahasiswa \nuntuk menyediakan laporan, pengendalian buku log, laporan penilaian \ndaripada penyelia fakulti dan penyelia industri/organisasi luar. Komponen-\nkomponen yang dinilai adalah seperti berikut: \n \n11.1 \nLaporan Latihan Industri \nLaporan LI perlu disediakan menggunakan format tesis UTM tidak"
+    },
+    {
+        "chunk_id": "GLI_018",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            9
+        ],
+        "sections": [
+            "11.1 Laporan Latihan Industri"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 368,
+        "text": "11.1 \nLaporan Latihan Industri \nLaporan LI perlu disediakan menggunakan format tesis UTM tidak \nmelebihi 50 muka surat (tidak termasuk rujukan dan lampiran) atau \nmengikut format yang ditetapkan oleh fakulti. Laporan boleh ditulis \nsama ada dalam Bahasa Malaysia atau Bahasa Inggeris dan mesti \ndihantar selewat-lewatnya satu minggu setelah tamat tempoh menjalani \nLI."
+    },
+    {
+        "chunk_id": "GLI_019",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            10
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 694,
+        "text": "--- PAGE 10 ---\n10 \n \n11.1.1 Laporan LI \nLaporan yang ditulis oleh mahasiswa mesti memuatkan perkara \ndi bawah dan dinilai dengan wajaran markah berikut: \n \n \nKandungan \nMarkah (%) \n1. Pengenalan \n10 \n2. Latar belakang Industri/Organisasi \n10 \n3. Latihan yang diberi secara am \n10 \n4. Projek/latihan yang telah \ndijalankan \n40 \n5. Kesimpulan \n10 \n6. Kemahiran penulisan \n10 \n7. Format laporan \n10 \nJUMLAH \n100 \n \n \n11.1.2 Penilaian bagi laporan LI dibuat oleh penyelia fakulti yang \ndilantik oleh Dekan. \n \n \n11.1.3 Mahasiswa perlu mendapatkan pengesahan laporan dari \nindustri/organisasi jika diperlukan oleh pihak mereka. \n \n \n11.2 Buku Log \n \nPenilaian bagi buku log adalah seperti di bawah:"
+    },
+    {
+        "chunk_id": "GLI_020",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            11
+        ],
+        "sections": [
+            "11.3 Laporan Penilaian Penyelia Fakulti",
+            "11.4 Laporan Penilaian Penyelia Industri/Organisasi Luar"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1131,
+        "text": "--- PAGE 11 ---\n \n \nKandungan \nMarkah (%) \n1. Kekemasan catatan harian yang \ndilakukan \n10 \n2. Aktiviti harian yang dikemaskini \n20 \n3. Kandungan – konsep, lakaran, \nprosedur, penerangan mengenai \nsistem atau peralatan yang \ndigunakan \n50 \n4. Ulasan dan pengesahan penyelia \nindustri \n20 \nJUMLAH \n100 \n \nPenilaian buku log hendaklah dibuat oleh penyelia fakulti masing-\nmasing. \n \n11.3 \nLaporan Penilaian Penyelia Fakulti \nPenilaian bagi laporan penyelia adalah melalui kaedah temubual yang \nmerangkumi perkara berikut: \ni. \nmempraktiskan \nteori \ndan \npengetahuan \nakademik \nyang \ndimahasiswai di tempat kerja di bawah penyeliaan; \nii. \nmengenalpasti struktur organisasi jabatan/industri tempat \nlatihan dan mengenali peranan jawatan tertentu di dalam \norganisasi tersebut; \niii. \nberinteraksi dan berkomunikasi secara berkesan dengan \npelbagai pihak; \niv. \nmemberi pandangan secara kritis, berkeyakinan, inovatif dan \nmampu menyelesaikan masalah secara profesional; \nv. \nmempamerkan \netika \ndan \nintegriti \nyang \ntinggi \ndalam \nmenjalankan tanggungjawab yang diberikan. \n \n11.4 \nLaporan Penilaian Penyelia Industri/Organisasi Luar"
+    },
+    {
+        "chunk_id": "GLI_021",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            11
+        ],
+        "sections": [
+            "11.4 Laporan Penilaian Penyelia Industri/Organisasi Luar"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 276,
+        "text": "11.4 \nLaporan Penilaian Penyelia Industri/Organisasi Luar \n \nPenyelia industri/organisasi luar dikehendaki memberi penilaian \nterhadap prestasi mahasiswa yang membuat latihan dalam dua skop di \nbawah: \ni. \nPrestasi kerja yang merangkumi perkara berikut: \na. \npengetahuan kerja"
+    },
+    {
+        "chunk_id": "GLI_022",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            12
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 786,
+        "text": "--- PAGE 12 ---\n12 \n \nb. \nkebolehpercayaan untuk menyiapkan kerja dalam masa \nyang ditetapkan \nc. \nmasa diambil untuk mendapatkan kemahiran kerja \nd. \nkeperluan untuk penyeliaan \ne. \nkualiti kerja \n \nii. \nSahsiah meliputi perkara berikut: \na. \nkemahiran berkomunikasi \nb. \nkemahiran pemikiran kritis dan menyelesaikan masalah \nc. \nkemahiran kerja berpasukan \nd. \netika dan integriti \n \n11.5 Wajaran Pemarkahan \n11.5.1 Wajaran Pemarkahan bagi keseluruhan LI bagi tempoh 12 \nminggu adalah seperti berikut: \n \n \nKandungan \nMarkah (%) \n1. Laporan Latihan Industri \n40 \n2. Penilaian Penyelia Industri \n30 \n3. Penilaian Penyelia Fakulti (semasa \nlawatan) \n20 \n4. Buku Log \n10 \nJUMLAH \n100 \n \n \n \n11.5.2 Wajaran Pemarkahan bagi keseluruhan LI bagi tempoh satu \nsemester adalah seperti berikut:"
+    },
+    {
+        "chunk_id": "GLI_023",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            13
+        ],
+        "sections": [
+            "12.1 Bagi Tempoh LI Selama 12 Minggu",
+            "12.2 Bagi Tempoh LI Selama Satu (1) Semester atau 20 Minggu"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1158,
+        "text": "--- PAGE 13 ---\n \n \nKandungan \nMarkah (%) \n1. Laporan Latihan Industri \n- \nLaporan bertulis \n- \nPembentangan lisan \n \n60 \n40 \nJUMLAH \n100 \n2. Prestasi Mahasiswa \n- \nLaporan Penyelia Industri \n- \nLaporan Penyelia Fakulti \n- \nBuku Log \n \n50 \n30 \n20 \nJUMLAH \n100 \n. \n \n12.0 Syarat Lulus Latihan Industri \n \n12.1 \nBagi Tempoh LI Selama 12 Minggu \ni. \n12.1.1 Markah Lulus LI adalah 60% daripada jumlah markah \nkeseluruhan. \nii. \n12.1.2 Bagi komponen prestasi mahasiswa, jumlah markah \npenilaian penyelia industri dan penilaian penyelia fakulti \nsemasa lawatan mesti sekurang-kurangnya 50% daripada \njumlah markah kedua-dua penyelia. \n \n12.2 \nBagi Tempoh LI Selama Satu (1) Semester atau 20 Minggu \nMahasiswa mesti lulus kedua-dua penilaian Laporan Latihan Industri \ndan Prestasi Latihan Industri dalam perkara 11.5.2 untuk lulus \nkeseluruhan latihan industri. Mahasiswa yang gagal bahagian laporan \nlatihan industri perlu menghantar semula laporan dalam tempoh yang \nditetapkan tanpa perlu menjalani LI semula. Manakala mahasiswa \nyang gagal bahagian penilaian Prestasi Latihan Industri, mahasiswa \nhendaklah menjalani semula LI pada semester lazim berikutnya dan"
+    },
+    {
+        "chunk_id": "GLI_024",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            13
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 109,
+        "text": "hendaklah menjalani semula LI pada semester lazim berikutnya dan \nmenghantar semula laporan latihan industri."
+    },
+    {
+        "chunk_id": "GLI_025",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            14
+        ],
+        "sections": [
+            "13.1 Mahasiswa tidak dibenarkan mengambil cuti sewaktu menjalani",
+            "13.2 Mahasiswa yang tidak dapat menghadiri latihan industri selama lebih"
+        ],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1164,
+        "text": "--- PAGE 14 ---\n14 \n \n13.0 Cuti \n13.1 \nMahasiswa tidak dibenarkan mengambil cuti sewaktu menjalani \nlatihan industri kecuali dengan kelulusan organisasi yang berkaitan. \n13.2 \nMahasiswa yang tidak dapat menghadiri latihan industri selama lebih \ndaripada enam (6) hari (bagi tempoh LI selama 12 minggu) atau \nsepuluh (10) hari (bagi tempoh LI selama 20 minggu) kerana \nkecemasan atau cuti sakit disifatkan sebagai tidak memenuhi syarat \ndan perlu mengulang program latihan industri sepenuhnya. \n \n \n14.0 Plagiat/Ciplak \nPlagiat didefinisikan sebagai “menggunakan hasil kerja orang lain tanpa \nmemberi pengiktirafan kepada mereka, sebagai hasil kerja sendiri”. Idea dan \npenulisan yang diambil dari sesuatu sumber tanpa menyatakan sumber asalnya \nadalah plagiat. \n \nBerikut adalah antara perkara-perkara yang dianggap plagiat: \ni. \nPeniruan sebahagian/sepenuhnya petikan dari teks seolah-olah \npenulisan sendiri. Petikan berkenaan mestilah diolah dengan \nmenggunakan perkataan sendiri dan dinyatakan sumbernya. \nii. \nIdea yang diambil terus dari sesuatu rujukan tanpa menyatakan \nsumbernya. Sepatutnya mesti diletakkan dalam bentuk petikan dan \ndinyatakan sumbernya."
+    },
+    {
+        "chunk_id": "GLI_026",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            14
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 596,
+        "text": "sumbernya. Sepatutnya mesti diletakkan dalam bentuk petikan dan \ndinyatakan sumbernya. \n \n \nMaklumat lanjut berkenaan plagiat boleh dirujuk dalam Gaya Dewan (1995). \n \nPlagiat merupakan salah laku akademik serius yang boleh dikenakan tindakan \ndi bawah Kaedah Tatatertib Universiti. \n \n \n15.0 Tatatertib Semasa Menjalani LI \nSepanjang menjalani tempoh latihan industri, mahasiswa tetap tertakluk \nkepada Akta Universiti dan Kolej Universiti 1971 (Pindaan 2009) dan Akta \nPendidikan 1996 (Akta 550). Mahasiswa juga dikehendaki mematuhi \nperaturan berikut semasa menjalani program latihan industri:"
+    },
+    {
+        "chunk_id": "GLI_027",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            15
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1135,
+        "text": "--- PAGE 15 ---\n \ni. \nmematuhi masa bekerja dan segala peraturan di organisasi sama seperti \nkakitangan yang lain; \nii. \ntidak mengambil cuti sepanjang masa menjalani latihan industri \nkecuali dengan kelulusan organisasi berkaitan; \niii. \nmenghubungi pihak organisasi dengan segera sekiranya tidak dapat \nhadir kerana kecemasan atau cuti sakit; \niv. \nmenghubungi pihak organisasi sekiranya terpaksa sampai lewat kerana \nsesuatu sebab yang tidak dapat dielakkan; \nv. \ntidak membocorkan rahsia atau memberi maklumat sulit organisasi \nkepada mana-mana pihak semasa menjalankan latihan industri ataupun \nsesudahnya; \nvi. \nmenggunakan sebarang harta kepunyaan organisasi dengan baik; \nvii. \nsentiasa berpakaian kemas sesuai dengan keadaan dan peraturan \npemakaian di tempat latihan industri. \nviii. \nmenyediakan laporan yang tidak memburukkan organisasi tempat \nlatihan. \n \n16.0 Pelanggaran Peraturan Industri/Organisasi \nMahasiswa yang melanggar peraturan industri/organisasi tempat mereka \nmembuat latihan sehingga merosak atau memudaratkan nama baik universiti \nboleh dikenakan tindakan tatatertib mengikut peruntukan Akta Universiti dan"
+    },
+    {
+        "chunk_id": "GLI_028",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            15
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 491,
+        "text": "boleh dikenakan tindakan tatatertib mengikut peruntukan Akta Universiti dan \nKolej Universiti, 1971, Kaedah-kaedah Universiti Teknologi Malaysia \n(Tatatertib Mahasiswa-mahasiswa), 1999. \n \n17.0 Penutup \nManual Garis Panduan Latihan Industri ini hendaklah digunakan bagi \nmenyelaraskan pelaksanaan LI di semua Fakulti di UTM. \n \n \nDisahkan oleh Senat Universiti Teknologi Malaysia pada 15 Februari 2012 \n \nPROFESOR DATO’ IR. DR. ZAINI BIN UJANG \nPengerusi \nSenat Universiti Teknologi Malaysia"
+    },
+    {
+        "chunk_id": "GLI_029",
+        "source": "GarisPanduanLI.pdf",
+        "pages": [
+            16
+        ],
+        "sections": [],
+        "language": "Malay",
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100,
+        "actual_characters": 1156,
+        "text": "--- PAGE 16 ---\n16 \n \nLAMPIRAN A \n \nCARTA ALIR \nPROSEDUR PERMOHONAN MAHASISWA KE LUAR NEGARA \n \n \n \n \n \nYa \nMahasiswa melengkapkan \nmaklumat permohonan \n \nTerima permohonan melalui \nPengetua/Penasihat/Dekan \n(3 salinan) ke luar Negara) \n \nSemak. lengkap? \n \nKemukakan kepada TNC (HEMA) \nuntuk sokongan \n \nSokong? \nTidak \nYa \n \nYa \nYa \nNota A: \n1. Kewangan. \n2. Borang Maklumat Mahasiswa \n(Nama, IC, No. Pasport, Alamat \nTetap dan Alamat Pengajian). \n3. Matlamat & Aturcara Program \n4. Surat Jemputan/Kelulusan \nPihak Luar (jika berkenaan). \n6 \n7 \n8 \n10 \n11 \n13 \n \n2 \n15 \nTidak \n \nTNC (HEMA) kemukakan surat \nkepada NC untuk kelulusan \n \nPertimbangan NC (Wisma Putra, \nKDN, PDRM, Kedutaan, lain-lain) \n \nLulus? \n \n \nSurat kelulusan NC kepada TNC \ndan salinan kepada mahasiswa \n \n \nPelaksanaan program \n \n \n \n \n \nPenganjur/mahasiswa sediakan \nLaporan Program/ Kewangan \n \nPenganjur/mahasiswa hantar \nLaporan Program/ Kewangan \nkepada HEMA (selepas selesai \nprogram) \n \n \nHEMA semak. lengkap? \n \n \nHEMA hantar ke KPT \n5 \n \nKeluarkan surat \nkelulusan \nsementara kepada \nmahasiswa \n \nMaklumkan \nkepada \nmahasiswa \nTidak \nMula \n12 \nSelesai \nTidak \n14 \n9 \n1 \n3 \n4"
+    }
+]

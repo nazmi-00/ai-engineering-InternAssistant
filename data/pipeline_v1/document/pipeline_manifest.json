@@ -1,0 +1,38 @@
+{
+    "project": "InternAssistant",
+    "pipeline_name": "PDF Document Processing Pipeline",
+    "pipeline_version": "V1",
+    "selected_pathway": "document",
+    "execution_status": "completed",
+    "execution_timestamp_utc": "2026-11-14T05:34:14.657052+00:00",
+    "source": {
+        "filename": "GarisPanduanLI.pdf",
+        "path": "data/raw/GarisPanduanLI.pdf",
+        "sha256": "7edca28f7787ad72d6600ca094c3c6b853c7204ad045388bbda7844e747291e0"
+    },
+    "processing": {
+        "extraction": "PyMuPDF",
+        "cleaning": [
+            "Remove null characters",
+            "Normalize spaces and tabs",
+            "Reduce excessive blank lines"
+        ],
+        "chunking_method": "RecursiveCharacterTextSplitter",
+        "chunk_size": 1200,
+        "chunk_overlap": 100
+    },
+    "execution": {
+        "script": "src/prepare_chunks.py",
+        "input": "data/processed/GarisPanduanLI_chunks_metadata.json",
+        "input_sha256": "493acf7fe0751b8f5a502b929d01a58ef3389d4d65388791a8cd4dc55ed4da91",
+        "total_chunks": 29
+    },
+    "outputs": [
+        {
+            "filename": "prepared_chunks.json",
+            "path": "data/pipeline_v1/document/prepared_chunks.json",
+            "sha256": "14059a192c9361f1376cd57d7633ade4517f507c9a075905fc94bc22037046d6",
+            "total_records": 29
+        }
+    ]
+}
