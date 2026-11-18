@@ -16,7 +16,7 @@ University students often struggle to find internship information because requir
 - **Static internship guidelines and PDF documents:** University-provided internship guidelines and forms. Example source: https://fke.utm.my/li/. Key limitation: Students must identify the relevant document and search for the required information themselves.
 
 ## Project Objectives
-- O1: To collect and preprocess official university internship documents for use as the AI assistant's knowledge base.
+- O1: To identify official university internship documents for use as the AI assistant's knowledge base.
 - O2: To develop a retrieval-based AI assistant that answers internship-related questions using relevant documents and supporting sources.
 - O3: To evaluate the assistant based on answer accuracy, groundedness, source relevance, and response time.
 
