@@ -28,23 +28,57 @@ Undergraduate students who need information about internship eligibility, applic
 - UTM Faculty of Electrical Engineering — Industrial Training Information: https://fke.utm.my/li/
 - UTM School of Undergraduate Studies — Industrial Training: https://ugs.utm.my/industrial-training-li/
 
+
+### Week 1 – Project Planning
+
+| Document | Link |
+|---|---|
+| Project Scope | [View Project Scope](docs/week1_project_scope.md) |
+| Observation Sheet | [View Observation Sheet](docs/week1_observation_sheet.md) |
+| System Map | [View System Map](docs/week1_system_map.jpeg) |
+
+### Week 2 – Requirements and Architecture
+
+| Document | Link |
+|---|---|
+| Architecture Decisions | [View Architecture Decisions](docs/week2_architecture_decisions.md) |
+| Architecture Diagram | [View Architecture Diagram](docs/week2_architecture_v1.png) |
+| Evaluation Criteria | [View Evaluation Criteria](docs/week2_evaluation_criteria.md) |
+
+### Week 3 – Data Preparation Pipeline
+
+| Document | Link |
+|---|---|
+| Data Inventory | [View Data Inventory](docs/week3_data_inventory.md) |
+| Pipeline Diagram | [View Pipeline Diagram](docs/week3_pipeline_diagram.png) |
+| Pipeline Decisions | [View Pipeline Decisions](docs/week3_pipeline_decisions.md) |
+| Pipeline Notebook | [View Notebook](notebooks/week3_pipeline.ipynb) |
+
+---
+
 ## Weekly Progress
-| Week | Focus                      | Deliverable    | Status |
-|------|----------------------------|----------------|--------|
-| W1   | System map + project scope | README + docs  | ✅    |
+
+| **Week** | **Focus** | **Deliverable** | **Status** |
+|---|---|---|---|
+| W1 | Project scope and system mapping | README and planning documents | Completed |
+| W2 | Requirements, evaluation and architecture | Architecture documents and diagram | Completed |
+| W3 | Data preparation pipeline | Data inventory, pipeline diagram, prepared chunks and manifest | Completed |
 
 ## Week 3 – Data Preparation Pipeline
 
 ### Project Overview
-This week, the InternAssistant project implemented a document-processing pipeline using the UTM Industrial Training Guidelines PDF.
+
+In Week 3, the InternAssistant project implemented a document-processing pipeline using the UTM Industrial Training Guidelines PDF.
 
 ### Selected Data Pathway
-- Pathway: PDF document processing
-- Source: `GarisPanduanLI.pdf`
-- Document language: Malay
-- Total pages: 16
+
+- **Pathway:** PDF document processing
+- **Source:** `GarisPanduanLI.pdf`
+- **Document language:** Malay
+- **Total pages:** 16
 
 ### Pipeline Process
+
 1. Extract text from the PDF using PyMuPDF.
 2. Clean the extracted text.
 3. Split the text into chunks using RecursiveCharacterTextSplitter.
@@ -53,22 +87,27 @@ This week, the InternAssistant project implemented a document-processing pipelin
 6. Prepare structured chunks for the next pipeline stage.
 
 ### Chunking Configuration
-- Chunking method: RecursiveCharacterTextSplitter
-- Chunk size: 1200 characters
-- Chunk overlap: 100 characters
-- Total chunks generated: 29
+
+| **Parameter** | **Value** |
+|---|---|
+| Chunking method | RecursiveCharacterTextSplitter |
+| Chunk size | 1200 characters |
+| Chunk overlap | 100 characters |
+| Total chunks generated | 29 |
 
 ### Week 3 Deliverables
+
 - Notebook: `notebooks/week3_pipeline.ipynb`
-- Data inventory: `docs/week3_data_inventory.md`
-- Pipeline diagram: `docs/week3_pipeline_diagram.png`
-- Pipeline decisions: `docs/week3_pipeline_decisions.md`
+- Data inventory: [week3_data_inventory.md](docs/week3_data_inventory.md)
+- Pipeline diagram: [week3_pipeline_diagram.png](docs/week3_pipeline_diagram.png)
+- Pipeline decisions: [week3_pipeline_decisions.md](docs/week3_pipeline_decisions.md)
 - Part B lineage manifest: `data/week3_manifest.json`
 - Processed data: `data/processed/`
 - Part C prepared chunks: `data/pipeline_v1/document/prepared_chunks.json`
 - Part C pipeline manifest: `data/pipeline_v1/document/pipeline_manifest.json`
 
 ### Execution Scripts
+
 Run the following commands from the project root:
 
 ```bash
@@ -77,5 +116,13 @@ python src/create_pipeline_manifest.py
 ```
 
 ### Current Progress
+
 The Week 3 document-processing pipeline has been executed successfully, producing 29 prepared chunks with metadata and recorded lineage information.
+
+The prepared chunks and metadata will support the next development stage, which focuses on document retrieval and semantic search.
+
+### Progress Records
+
+This README serves as the cumulative semester project record, documenting weekly progress, completed activities, deliverables and links to important project artefacts.
+
 
