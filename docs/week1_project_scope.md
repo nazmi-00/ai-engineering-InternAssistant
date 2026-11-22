@@ -46,7 +46,7 @@ https://openai.com/index/chatgpt/
 Existing approaches provide internship information but may require students to search through multiple resources manually. General-purpose AI assistants may also provide answers that are not supported by official university guidelines. This project aims to address these limitations by developing a document-grounded AI assistant that retrieves relevant information, provides answers with source references, and indicates when the available documents do not contain sufficient information.
 
 ## Initial Project Objectives
-- **O1:** To collect and preprocess publicly available university internship documents for use as the AI assistant's knowledge base.
+- **O1:** To identify publicly available university internship documents for use as the AI assistant's knowledge base.
 - **O2:** To develop a retrieval-based AI assistant that answers internship-related questions using relevant document content and supporting sources.
 - **O3:** To evaluate the system based on answer accuracy, groundedness, retrieval relevance, and response time.
 
