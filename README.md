@@ -126,3 +126,22 @@ The prepared chunks and metadata will support the next development stage, which 
 This README serves as the cumulative semester project record, documenting weekly progress, completed activities, deliverables and links to important project artefacts.
 
 
+## Week 4: Data Quality and Responsible Data Practices
+
+**Report:** [Week 4 Data Quality Report](docs/week4_data_quality_report.md)
+
+**Quality-Gate Decision:** GO WITH CONDITIONS
+
+**Key Findings:**
+- 29 prepared chunks audited.
+- 12 chunks (41.38%) have missing section metadata.
+- No duplicate chunk IDs or exact duplicate text groups detected.
+- No confirmed UTF-8 encoding problems.
+- Current validity of the 2012 guideline requires verification.
+
+**Unresolved Actions:**
+1. Improve missing section metadata.
+2. Verify the latest official UTM internship guideline.
+3. Confirm redistribution permission.
+4. Expand the knowledge base with verified faculty-specific documents.
+
